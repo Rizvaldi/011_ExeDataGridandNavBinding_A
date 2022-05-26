@@ -1,0 +1,13 @@
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\bin\Debug\ExerciseDataBinding.exe.config
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\bin\Debug\ExerciseDataBinding.exe
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\bin\Debug\ExerciseDataBinding.pdb
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\obj\Debug\ExerciseDataBinding.csproj.AssemblyReference.cache
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\obj\Debug\ExerciseDataBinding.Properties.Resources.resources
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\obj\Debug\ExerciseDataBinding.csproj.GenerateResource.cache
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\obj\Debug\ExerciseDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\obj\Debug\ExerciseDataBinding.exe
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\obj\Debug\ExerciseDataBinding.pdb
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\obj\Debug\ExerciseDataBinding.DataMahasiswa.resources
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\obj\Debug\ExerciseDataBinding.Menu.resources
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\obj\Debug\ExerciseDataBinding.DataGrid.resources
+C:\Users\62813\source\repos\ExerciseDataBinding\ExerciseDataBinding\obj\Debug\ExerciseDataBinding.DataBinding.resources
